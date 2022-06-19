@@ -10,3 +10,5 @@ echo -e "a\tb"
 
 echo -e "\e[31m print red color"
 echo "Hello in normal text"
+
+echo -e "\e[31m print red color\e[0m"
