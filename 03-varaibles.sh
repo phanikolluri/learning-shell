@@ -12,4 +12,4 @@ DATE=$(date +%F)
 
 echo welcome today date is $DATE
 
-echo c = $c
+echo c=$c
