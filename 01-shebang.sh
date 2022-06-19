@@ -1,4 +1,5 @@
-#!/usr/bin/bash
+#!/bin/bash
 
 ls
-cat/etc/passwd
+
+# this is a comment
