@@ -12,3 +12,5 @@ echo -e "\e[31m print red color"
 echo "Hello in normal text"
 
 echo -e "\e[31m print red color\e[0m"
+echo "Hello in normal text"
+
