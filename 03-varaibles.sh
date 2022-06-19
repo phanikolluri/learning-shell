@@ -11,3 +11,5 @@ echo $b
 DATE=$(date +%F)
 
 echo welcome today date is $DATE
+
+c = $c
