@@ -8,3 +8,5 @@ echo -e "hello,\nhow are you doing.\ngood day"
 
 echo -e "a\tb"
 
+echo -e "\e[31m print red color"
+echo "Hello in normal text"
