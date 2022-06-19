@@ -2,3 +2,4 @@
 
 ls
 cat/etc/passwd
+ls -l
