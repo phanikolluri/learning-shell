@@ -10,8 +10,8 @@ function xyz() {
   echo XYZ function
 }
 
-#main program 
-a=10
+#main program
+a = 10
 #acess the function
 abc
-echo b=$b
+echo b = $b
