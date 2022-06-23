@@ -15,5 +15,6 @@ function xyz() {
 a=10
 #acess the function
 abc 34567
+abc=$1 
 echo b = $b
 echo first argument = $1
