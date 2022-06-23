@@ -2,7 +2,7 @@
 abc() {
   echo ABC function
   echo a = $a
-  echo first argument = $1
+  echo first argument in function = $1
   b=20
 }
 
@@ -15,6 +15,6 @@ function xyz() {
 a=10
 #acess the function
 abc 34567
-abc=$1
+abc $1
 echo b = $b
-echo first argument in Main function = $1
+echo first argument in Main program = $1
