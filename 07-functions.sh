@@ -2,6 +2,7 @@
 abc() {
   echo ABC function
   echo a = $a
+  echo first argument = $1
   b=20
 }
 
@@ -15,3 +16,4 @@ a=10
 #acess the function
 abc
 echo b = $b
+echo first argument = $1 
