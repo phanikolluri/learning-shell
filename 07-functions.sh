@@ -1,7 +1,7 @@
 #declare a function
 abc() {
   echo ABC function
-  echo a= $a
+  echo a = $a
   b=20
 }
 
