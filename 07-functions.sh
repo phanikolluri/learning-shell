@@ -2,7 +2,7 @@
 abc() {
   echo ABC function
   echo a = $a
-  b=20
+  b= 20
 }
 
 #declare another function
