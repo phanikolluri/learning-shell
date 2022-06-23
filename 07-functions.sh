@@ -2,14 +2,14 @@
 abc() {
   echo ABC function
   a=10
-  echo $b
+  echo b = $b
 }
 
 #declare another function
 function xyz() {
   echo XYZ function
 }
-echo $a
+echo a = $a
 b=20
 #acess the function
 abc
