@@ -12,5 +12,5 @@ function xyz() {
 echo $a
 b=20
 #acess the function
-a
+abc
 
