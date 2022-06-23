@@ -9,5 +9,5 @@ function xyz() {
 }
 
 #acess the function
-abc
+xyz
 
