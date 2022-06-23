@@ -14,6 +14,6 @@ function xyz() {
 #main program
 a=10
 #acess the function
-abc=34567
+abc 34567
 echo b = $b
 echo first argument = $1
