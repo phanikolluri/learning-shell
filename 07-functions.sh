@@ -9,6 +9,7 @@ abc() {
 function xyz() {
   echo XYZ function
 }
+
 echo a = $a
 b=20
 #acess the function
