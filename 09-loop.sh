@@ -10,7 +10,7 @@
 #while uses expression
 # uses inputs
 
-i=2
+i=1
 while [ $i -lt 3 ]; do
   echo hello
   i=$(($i+1))
