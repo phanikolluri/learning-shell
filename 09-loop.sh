@@ -16,7 +16,7 @@ while [ $i -lt 3 ]; do
   i=$(($i+1))
 done
 
-for stationary of pen scale pencil; do
+for stationary of pen scale pencil ; do
   echo STATIONARY = $stationary
 done
 
