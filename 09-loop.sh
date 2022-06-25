@@ -16,7 +16,7 @@ while [ $i -lt 3 ]; do
   i=$(($i+1))
 done
 
-for fruit pen scale pencil ; do
+for fruit in orange mango banana ; do
   echo FRUIT = $fruit
 done
 
