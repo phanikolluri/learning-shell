@@ -11,7 +11,7 @@
 # uses inputs
 
 i=2
-while [ $i -lt 3]; do
+while [ $i -lt 3 ]; do
   echo hello
   i=$(($i+1))
 done
