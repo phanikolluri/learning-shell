@@ -18,8 +18,9 @@ done
 
 for stationary of pen scale pencil; do
   echo STATIONARY items name = $stationary
+done
 
-  done
+
   
 
 
