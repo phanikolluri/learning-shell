@@ -12,7 +12,7 @@
 
 i=1
 while [ $i -lt 3 ]; do
-  echo hello $1 
+  echo hello $i 
   i=$(($i+1))
 done
 
